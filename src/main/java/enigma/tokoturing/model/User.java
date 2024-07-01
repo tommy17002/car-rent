@@ -2,6 +2,8 @@ package enigma.tokoturing.model;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.util.List;
+
 @Entity
 @Table(name = "users")
 @NoArgsConstructor

@@ -1,0 +1,7 @@
+Flow:
+1. OrderDTO
+2. OrderDetailDTO
+
+3. kontrak service
+4. ganti logic di 2-2nya
+5. controller
